@@ -1,8 +1,4 @@
-# Internship
-link of chatgpt
-https://chatgpt.com/share/6821d27a-c4ec-8004-9e4e-f853e4bf1b95
-devops tools
-https://chatgpt.com/share/682815fe-35bc-8004-9445-ededf3802b40
+
 📑 DevOps Topics and Tools
 1. Version Control Systems (VCS)
 Purpose: Track changes in source code, enable collaboration.
